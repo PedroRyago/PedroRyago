@@ -1,4 +1,4 @@
 - Olá, meu nome é Pedro Ryago!
-- Estou interessado em aprender novas tecnologias e aprimorar meus conhecimentos.
-- Atualmente estou cursando Engenharia de software! 
+- Estou buscando aprender novas tecnologias e aprimorar meus conhecimentos :)
+- Atualmente estou cursando Engenharia de Software na Universidade do Estado do Pará.
 - Você pode me encontrar em: https://linkedin.com/in/pedro-ryago
