@@ -14,6 +14,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/python.png" alt="Python"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/php.png" alt="PHP"/></code>
 
 ## <strong>Stats</strong>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroRyago&show_icons=true)
