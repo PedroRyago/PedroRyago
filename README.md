@@ -2,7 +2,10 @@
 
 - Estou buscando aprender novas tecnologias e aprimorar meus conhecimentos :)
 - Atualmente estou cursando Engenharia de Software na Universidade do Estado do Pará.
-- Você pode me encontrar em: https://linkedin.com/in/pedro-ryago
+<div> 
+  <a href="mailto:pedrorbn121@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/pedro-ryago" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+</div>
 
 ## <strong>Skills</strong>
 
