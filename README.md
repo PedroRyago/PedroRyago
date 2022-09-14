@@ -20,4 +20,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/php.png" alt="PHP"/></code>
 
 ## <strong>Stats</strong>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroRyago&show_icons=true)
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroRyago&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRyago&layout=compact&langs_count=8&theme=dark"/>
+</div>
