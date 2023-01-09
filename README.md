@@ -9,24 +9,27 @@
 
 ## <strong>Skills</strong>
 
-<code><img height="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-line.svg" alt="c"/></code>
-<code><img height="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" alt="Javascript"/></code>
-<code><img height="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" alt="Nodejs"/></code>
-<code><img height="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" alt="HTML5"/></code>
-<code><img height="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg" alt="CSS"/></code>
-<code><img height="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap"/></code>
-<code><img height="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" alt="MySQL"/></code>
-<code><img height="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" alt="Python"/></code>
-<code><img height="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg" alt="PHP"/></code>
-<code><img height="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" alt="Docker"/></code>
-<code><img height="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" alt="Linux"/></code>
-<code><img height="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/apache/apache-original.svg" alt="Apache"/></code>
-<code><img height="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg" alt="Bash"/></code>
-<code><img height="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-original.svg" alt="Django"/></code>
-<code><img height="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jquery/jquery-original.svg" alt="Jquery"/></code>
-<code><img height="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original.svg" alt="Jupyter"/></code>
-<code><img height="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu"/></code>
-
+<div align="center">
+    <code><img height="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-line.svg" alt="c"/></code>
+    <code><img height="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" alt="Javascript"/></code>
+    <code><img height="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" alt="Nodejs"/></code>
+    <code><img height="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" alt="HTML5"/></code>
+    <code><img height="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg" alt="CSS"/></code>
+    <code><img height="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap"/></code>
+    <code><img height="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" alt="MySQL"/></code>
+    <code><img height="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" alt="Python"/></code>
+</div>
+<div align="center">
+    <code><img height="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg" alt="PHP"/></code>
+    <code><img height="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" alt="Docker"/></code>
+    <code><img height="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" alt="Linux"/></code>
+    <code><img height="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/apache/apache-original.svg" alt="Apache"/></code>
+    <code><img height="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg" alt="Bash"/></code>
+    <code><img height="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-original.svg" alt="Django"/></code>
+    <code><img height="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jquery/jquery-original.svg" alt="Jquery"/></code>
+    <code><img height="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original.svg" alt="Jupyter"/></code>
+    <code><img height="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu"/></code>
+</div>
 
 ## <strong>Stats</strong>
 <div>
