@@ -25,7 +25,7 @@
     <code><img height="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" alt="Linux"/></code>
     <code><img height="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/apache/apache-original.svg" alt="Apache"/></code>
     <code><img height="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg" alt="Bash"/></code>
-    <code><img height="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-original.svg" alt="Django"/></code>
+    <code><img height="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain.svg" alt="Django"/></code>
     <code><img height="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jquery/jquery-original.svg" alt="Jquery"/></code>
     <code><img height="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original.svg" alt="Jupyter"/></code>
     <code><img height="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu"/></code>
